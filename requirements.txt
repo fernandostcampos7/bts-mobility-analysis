@@ -1,0 +1,9 @@
+pandas
+dask[complete]
+jupyterlab
+matplotlib
+scikit-learn
+seaborn
+
+
+
